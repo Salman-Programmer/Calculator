@@ -1,0 +1,1 @@
+This is just a simple caclulator and what makes it special is it can be build into a stand alone desktop application otherwise its just a useless thing I build and its my first application using qt6 and c++. Will be building more apps from now on :)  
